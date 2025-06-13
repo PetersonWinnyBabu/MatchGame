@@ -1,0 +1,16 @@
+.tabItem {
+  padding: 10px;
+}
+.tabItemButton {
+  padding: 10px;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  font-size: 20px;
+  color: white;
+  border: none;
+}
+.isActiveButton {
+  border-bottom: 2px solid #fec653;
+  color: #fec653;
+}
